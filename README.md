@@ -1,5 +1,7 @@
 # Rock, Paper, Scissors Game Implementation
 
+[🔗 Live version](https://judithsanchez.github.io/rock-paper-scissors/)
+
 This repository contains the implementation of the Rock, Paper, Scissors game using JavaScript. The objective of the game is to win two out of three rounds.
 
 **🔍 Keywords:** JavaScript.
