@@ -16,6 +16,6 @@ This is a simple implementation of the widely known game Rock, Paper, Scissors. 
 ### 🗂️ File structure:
 
     📗 ROCK, PAPER, SCISSOR GAME
-    ├── 💛 animals.js
+    ├── 💛 game.js
     ├── 📄 index.html
     └── 📖 README.md
