@@ -19,3 +19,5 @@ This is a simple implementation of the widely known game Rock, Paper, Scissors. 
     ├── 💛 game.js
     ├── 📄 index.html
     └── 📖 README.md
+
+### Attempt to make it a react Rock, Scissors, Paper game and hopefully add a button

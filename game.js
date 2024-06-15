@@ -1,4 +1,5 @@
 class RockPaperScissors {
+  
   constructor() {
     this.gameChoices = {
       rock: { beats: 'scissors' },
